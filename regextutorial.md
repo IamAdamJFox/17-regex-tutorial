@@ -48,10 +48,10 @@ Character escapes, denoted by a backslash (\), are used to interpret certain sym
 
 Understanding email validation using Regular Expressions empowers developers to create robust systems that ensure accurate email data entry. By incorporating anchors, bracket expressions, quantifiers, grouping constructs, character classes, and character escapes, developers can construct powerful email validation patterns to enhance user experiences across various applications and platforms.
 
-Author
+### Author
 _______________________________________________________________________________________________________________________________________________________________________________________
 
-Adam J Fox
+### Adam J Fox
 
 If you have any questions feel free to contact me at
 
