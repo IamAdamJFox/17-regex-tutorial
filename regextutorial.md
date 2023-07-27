@@ -8,7 +8,7 @@ In this document, we will explore the concept and implementation of email valida
 
 Email Vaildation Regular Expression:
 
-/^([a-zA-Z0-9._%-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6})$/
+<mark>/^([a-zA-Z0-9._%-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6})$/</mark>
 
 ## Table of Contents
 
