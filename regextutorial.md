@@ -7,8 +7,9 @@ Summary:
 In this document, we will explore the concept and implementation of email validation through Regular Expressions. These expressions are designed to identify patterns within email addresses, ensuring they adhere to the correct format. Vital components of Regex, including anchors, bracket expressions, quantifiers, grouping constructs, character classes, and character escapes, will be explained. A sample email validation regex will be used throughout the tutorial to illustrate these concepts.
 
 Email Vaildation Regular Expression:
-
-'/^([a-zA-Z0-9._%-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6})$/'
+...
+/^([a-zA-Z0-9._%-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6})$/
+...
 
 ## Table of Contents
 
